@@ -1,4 +1,4 @@
-# IPCTOBNSConverter
+# IPC TO BNS Converter
 This tool helps you If you compare sections in IPC with BNS. Enter the old Section number, it will show you the corresponding section in the new criminal law.
 
 What is the IPC to BNS Converter Tool?
@@ -15,11 +15,12 @@ This seamless process eliminates the need for cumbersome manual comparisons, sav
 
 If you open this link and enter the old Section number, it will show you the corresponding section in the new criminal law.
 
-1) IPC to BNS:
+**1) IPC to BNS:
+**
 https://makemydraft.in/convert/ipc-to-bns.html
 
-2) CrPC to BNSS:
-https://makemydraft.in/convert/crpc-to-bnss.html
+**2) CrPC to BNSS:
+**https://makemydraft.in/convert/crpc-to-bnss.html
 
-3) Evidence Act to BSA:
-https://makemydraft.in/convert/iea-to-bsa.html
+**3) Evidence Act to BSA:
+**https://makemydraft.in/convert/iea-to-bsa.html
